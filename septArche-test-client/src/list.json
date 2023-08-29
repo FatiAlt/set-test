@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "titre": "1984",
+        "auteur": "Georges Orwell"
+
+    },
+
+    {
+        "id": "2",
+        "titre": "Le meilleur des mondes",
+        "auteur": "Aldous Huxley"
+    },
+
+    {
+        "id": "3",
+        "titre": "Les 3 petits cochons",
+        "auteur": "James"
+    }
+
+
+]
